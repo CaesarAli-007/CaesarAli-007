@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caesarali007&label=Profile%20views&color=0e75b6&style=flat" alt="CaesarAli-007" /> </p>
 
-- 🌱 I’m currently learning **C++, Python, JavaScript and React**
+- 🌱 I’m currently working **JavaScript, React, Express, MongoDB, Node, Python, Django, SQL, C, C++**
 
 - 📫 How to reach me **aly.h.mughal@gmail.com**
 
