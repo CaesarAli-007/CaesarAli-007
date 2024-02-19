@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caesarali007&label=Profile%20views&color=0e75b6&style=flat" alt="CaesarAli-007" /> </p>
 
-- 🌱 I’m currently working in **JavaScript (ES6+), React, Express.js, Node.js, MongoDB, TypeScript, Python, Django, SQL, Flask, Jinja, C, C++**
+- 🌱 I’m currently working in **JavaScript (ES6+), React, Express.js, Node.js, MongoDB, TypeScript, Vue.js, Python, Django, SQL, Flask, Jinja, C, C++**
 
 - 📫 How to reach me **aly.h.mughal@gmail.com**
 
