@@ -92,12 +92,3 @@
 <img src="https://raw.githubusercontent.com/CaesarAli-007/CaesarAli-007/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
