@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Ali H. Mughal, a Passionate MERN Stack Developer<br><br>🌱 I’m currently working in JavaScript (ES6+), React, Express.js, Node.js, MongoDB, TypeScript, Vue.js, Python, Django, SQL, Flask, Jinja, C, C++<br><br>📫 How to reach me aly.h.mughal@gmail.com</h3>
+<h3 align="left">👋 Hi, I'm Ali H. Mughal, a Passionate MERN Stack Developer<br><br>🌱 I’m currently working in JavaScript (ES6+), React, Express.js, Node.js, MongoDB, TypeScript, Vue.js, Python, Django, SQL, Flask, Jinja, C, C++<br><br>📫 How to reach me aly.h.mughal@gmail.com</h3>
 
 ###
 
