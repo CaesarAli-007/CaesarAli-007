@@ -8,9 +8,9 @@
 </div>
 
 ###
-
+<div>
 <img align="right" height="150" src="https://us.123rf.com/450wm/shubhamo0o/shubhamo0o2310/shubhamo0o231004704/216367951-gamer-playing-computer-games-online-gaming-tournament-online-tournament-concept-gamer-playing.jpg?ver=6"  />
-
+</div>
 ###
 
 <div align="left">
