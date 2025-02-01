@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaesarAli-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-<div>
-<img align="right" height="150" src="https://us.123rf.com/450wm/shubhamo0o/shubhamo0o2310/shubhamo0o231004704/216367951-gamer-playing-computer-games-online-gaming-tournament-online-tournament-concept-gamer-playing.jpg?ver=6"  />
-</div>
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
