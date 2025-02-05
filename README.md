@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I'm Ali H. Mughal, a passionate Software Engineer<br><br>🌱 I’m currently working as an AWS Solutions Architect, DevOps Engineer and MERN Stack<br><br>📫 How to reach me aly.h.mughal@gmail.com</h3>
+<h3 align="left">👋 Hi, I'm Ali H. Mughal, a passionate Software Engineer<br><br>🌱 I’m currently working on AWS Solutions Architect, DevOps Engineer and MERN Stack<br><br>📫 How to reach me aly.h.mughal@gmail.com</h3>
 
 ###
 
