@@ -1,5 +1,5 @@
 ## 💫 About Me:
-• Hi, I'm Ali H. Mughal<br>• A Passionate Software Engineer<br>• I’m currently working as AWS Solutions Architect, DevOps Engineer and MERN Stack<br>• How to reach me aly.h.mughal@gmail.com
+• Hi, I'm Ali H. Mughal<br>• A Passionate Software Engineer<br>• I’m currently working as AWS Solutions Architect and DevOps Engineer.<br>• How to reach me aly.h.mughal@gmail.com
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CaesarAli-007&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
